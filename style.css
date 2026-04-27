@@ -2,3 +2,8 @@ body{
     font-family: "Montserrat", sans-serif;
     margin: 0px;
 }
+
+.btn btn-primary{
+    padding: 20px;
+    margin: 20px;
+}
