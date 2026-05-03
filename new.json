@@ -1,0 +1,52 @@
+[
+    {
+    "id": 14,
+    "title": "Володар перснів: Братство персня",
+    "author": "J.R.R. Tolkien",
+    "publisher": "Allen & Unwin",
+    "cover": "img/crp-contain_450x700_64dca3db3ad09888155015.webp",
+    "price": 370,
+    "description": "Епічна подорож заради знищення могутнього персня.",
+    "genre": "Фентезі"
+  },
+  {
+    "id": 13,
+    "title": "Шерлок Холмс: Собака Баскервілів",
+    "author": "Arthur Conan Doyle",
+    "publisher": "George Newnes",
+    "cover": "img/cover_214_49.webp",
+    "price": 250,
+    "description": "Детективна історія про загадкове прокляття родини Баскервілів.",
+    "genre": "Детектив"
+  },
+  {
+    "id": 11,
+    "title": "451 градус за Фаренгейтом",
+    "author": "Ray Bradbury",
+    "publisher": "Ballantine Books",
+    "cover": "img/img034_8.webp",
+    "price": 280,
+    "description": "Світ, де книги заборонені і підлягають знищенню.",
+    "genre": "Антиутопія"
+  },
+  {
+    "id": 10,
+    "title": "Дюна",
+    "author": "Frank Herbert",
+    "publisher": "Chilton Books",
+    "cover": "img/Duna_UKR_2017_KSD_palityrka.jpg",
+    "price": 360,
+    "description": "Науково-фантастичний роман про боротьбу за контроль над планетою.",
+    "genre": "Фантастика"
+  },
+  {
+    "id": 6,
+    "title": "Тінь вітру",
+    "author": "Carlos Ruiz Zafón",
+    "publisher": "Planeta",
+    "cover": "img/img525_1_1.webp",
+    "price": 310,
+    "description": "Захоплива історія про книги, таємниці і минуле.",
+    "genre": "Детектив"
+  }
+]

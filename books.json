@@ -1,20 +1,21 @@
+
 [
   {
     "id": 1,
     "title": "Викрадач блискавок",
     "author": "Rick Riordan",
     "publisher": "Disney-Hyperion",
-    "cover": "img/ebook-persi-dzhekson-vykradach-blyskavok-knyga-1-631264.800x800.jpeg",
+    "cover": "img/293701_58001804.jpg",
     "price": 299,
     "description": "Перша книга про Персі Джексона — хлопця, який дізнається, що він син грецького бога.",
     "genre": "Фентезі"
   },
   {
     "id": 2,
-    "title": "Гаррі Поттер і філософський камінь",
-    "author": "J.K. Rowling",
+    "title": "Останній потяг до Лондона",
+    "author": " M.W. Clayton",
     "publisher": "Bloomsbury",
-    "cover": "harry_potter_1.jpg",
+    "cover": "img/shopping.webp",
     "price": 320,
     "description": "Історія хлопця-чарівника, який відкриває для себе магічний світ.",
     "genre": "Фентезі"
@@ -24,7 +25,7 @@
     "title": "Гра престолів",
     "author": "George R.R. Martin",
     "publisher": "Bantam Books",
-    "cover": "got_1.jpg",
+    "cover": "img/744310_1_original.webp",
     "price": 350,
     "description": "Епічна боротьба за владу у вигаданому світі Вестеросу.",
     "genre": "Фентезі"
@@ -34,7 +35,7 @@
     "title": "1984",
     "author": "George Orwell",
     "publisher": "Secker & Warburg",
-    "cover": "1984.jpg",
+    "cover": "img/26_1_329.jpg",
     "price": 270,
     "description": "Антиутопія про тоталітарний режим і контроль над суспільством.",
     "genre": "Антиутопія"
@@ -44,7 +45,7 @@
     "title": "Майстер і Маргарита",
     "author": "Михайло Булгаков",
     "publisher": "YMCA Press",
-    "cover": "master_margarita.jpg",
+    "cover": "img/Майстер_і_Маргарита_-_українська_обкладинка.jpg",
     "price": 300,
     "description": "Філософський роман про добро і зло з елементами фантастики.",
     "genre": "Класика"
@@ -54,7 +55,7 @@
     "title": "Тінь вітру",
     "author": "Carlos Ruiz Zafón",
     "publisher": "Planeta",
-    "cover": "shadow_of_wind.jpg",
+    "cover": "img/img525_1_1.webp",
     "price": 310,
     "description": "Захоплива історія про книги, таємниці і минуле.",
     "genre": "Детектив"
@@ -64,7 +65,7 @@
     "title": "Код да Вінчі",
     "author": "Dan Brown",
     "publisher": "Doubleday",
-    "cover": "da_vinci_code.jpg",
+    "cover": "img/22730-dan-brown-kod-da-vinchi.jpg",
     "price": 330,
     "description": "Трилер про загадки, символи і таємні організації.",
     "genre": "Трилер"
@@ -74,7 +75,7 @@
     "title": "Алхімік",
     "author": "Paulo Coelho",
     "publisher": "HarperCollins",
-    "cover": "alchemist.jpg",
+    "cover": "img/Alchemist.jpg",
     "price": 260,
     "description": "Історія про пошук сенсу життя і власного шляху.",
     "genre": "Філософія"
@@ -84,7 +85,7 @@
     "title": "Маленький принц",
     "author": "Antoine de Saint-Exupéry",
     "publisher": "Reynal & Hitchcock",
-    "cover": "little_prince.jpg",
+    "cover": "img/images.jpg",
     "price": 200,
     "description": "Казка-притча про дружбу, любов і відповідальність.",
     "genre": "Казка"
@@ -94,7 +95,7 @@
     "title": "Дюна",
     "author": "Frank Herbert",
     "publisher": "Chilton Books",
-    "cover": "dune.jpg",
+    "cover": "img/Duna_UKR_2017_KSD_palityrka.jpg",
     "price": 360,
     "description": "Науково-фантастичний роман про боротьбу за контроль над планетою.",
     "genre": "Фантастика"
@@ -104,7 +105,7 @@
     "title": "451 градус за Фаренгейтом",
     "author": "Ray Bradbury",
     "publisher": "Ballantine Books",
-    "cover": "451.jpg",
+    "cover": "img/img034_8.webp",
     "price": 280,
     "description": "Світ, де книги заборонені і підлягають знищенню.",
     "genre": "Антиутопія"
@@ -114,7 +115,7 @@
     "title": "Зелена миля",
     "author": "Stephen King",
     "publisher": "Signet Books",
-    "cover": "green_mile.jpg",
+    "cover": "img/277_1_1.jpg",
     "price": 340,
     "description": "Драматична історія про життя у в'язниці та надприродні сили.",
     "genre": "Драма"
@@ -124,7 +125,7 @@
     "title": "Шерлок Холмс: Собака Баскервілів",
     "author": "Arthur Conan Doyle",
     "publisher": "George Newnes",
-    "cover": "sherlock.jpg",
+    "cover": "img/cover_214_49.webp",
     "price": 250,
     "description": "Детективна історія про загадкове прокляття родини Баскервілів.",
     "genre": "Детектив"
@@ -134,7 +135,7 @@
     "title": "Володар перснів: Братство персня",
     "author": "J.R.R. Tolkien",
     "publisher": "Allen & Unwin",
-    "cover": "lotr_1.jpg",
+    "cover": "img/crp-contain_450x700_64dca3db3ad09888155015.webp",
     "price": 370,
     "description": "Епічна подорож заради знищення могутнього персня.",
     "genre": "Фентезі"
@@ -144,9 +145,10 @@
     "title": "Голодні ігри",
     "author": "Suzanne Collins",
     "publisher": "Scholastic",
-    "cover": "hunger_games.jpg",
+    "cover": "img/images.webp",
     "price": 310,
     "description": "Світ майбутнього, де діти змушені брати участь у смертельних іграх.",
     "genre": "Антиутопія"
   }
 ]
+

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 2,
+    "title": "Останній потяг до Лондона",
+    "author": " M.W. Clayton",
+    "publisher": "Bloomsbury",
+    "cover": "img/shopping.webp",
+    "price": 320,
+    "description": "Історія хлопця-чарівника, який відкриває для себе магічний світ.",
+    "genre": "Бестселери"
+  },
+  {
+    "id": 7,
+    "title": "Код да Вінчі",
+    "author": "Dan Brown",
+    "publisher": "Doubleday",
+    "cover": "img/22730-dan-brown-kod-da-vinchi.jpg",
+    "price": 330,
+    "description": "Трилер про загадки, символи і таємні організації.",
+    "genre": "Бестселери"
+  },
+  {
+    "id": 8,
+    "title": "Алхімік",
+    "author": "Paulo Coelho",
+    "publisher": "HarperCollins",
+    "cover": "img/Alchemist.jpg",
+    "price": 260,
+    "description": "Історія про пошук сенсу життя і власного шляху.",
+    "genre": "Бестселери"
+  },
+  {
+    "id": 12,
+    "title": "Зелена миля",
+    "author": "Stephen King",
+    "publisher": "Signet Books",
+    "cover": "img/277_1_1.jpg",
+    "price": 340,
+    "description": "Драматична історія про життя у в'язниці та надприродні сили.",
+    "genre": "Бестселери"
+  },
+  {
+    "id": 15,
+    "title": "Голодні ігри",
+    "author": "Suzanne Collins",
+    "publisher": "Scholastic",
+    "cover": "img/images.webp",
+    "price": 310,
+    "description": "Світ майбутнього, де діти змушені брати участь у смертельних іграх.",
+    "genre": "Бестселери"
+  }
+]
+

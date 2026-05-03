@@ -7,3 +7,11 @@ body{
     padding: 20px;
     margin: 20px;
 }
+
+.nav-link {
+  color: black !important;
+}
+
+.nav-link:hover {
+  color: gray !important;
+}
