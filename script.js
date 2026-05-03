@@ -1,5 +1,6 @@
 let books = []; // Масив всіх товарів
 let cart = []; // Масив товарів у кошику
+const cartContainer = document.querySelector('#cart-items');
 async function fetchBooks() {
     const response = await fetch('books.json');
     const data = await response.json();
@@ -77,7 +78,7 @@ function displayCart() {
         cartContainer.innerHTML += `
         <div class="card border-0 border-bottom rounded-0">
         <div class="card-body d-flex align-items-center gap-3 p-3">
-            <img src="img/${book.cover}" height="80">
+            <img src="${book.cover}" height="80">
                 <div class="flex-grow-1">
                     <h5 class="card-title mb-1">${book.title}</h5>
                     <p class="card-text text-muted mb-1">Кількість:${book.quantity}</p>
